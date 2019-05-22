@@ -3,7 +3,7 @@
 
 ---
 <!-- Slide -->
-## June and July of 2018 each saw more than 150 digital accessibility lawsuits filed.
+> June and July of 2018 each saw more than 150 digital accessibility lawsuits filed.
 
 <!-- ![](assets/img/presentation.png) -->
 
@@ -24,19 +24,18 @@
 <!-- Slide -->
 @snap[north-west]
 <!-- #### Add a splash of @color[cyan](**color**) and you are ready to start presenting... -->
-#### Imagine building a skyscraper and forgetting  to put in an elevator, then tearing down part of the building to add the elevator.
+> Imagine building a skyscraper and forgetting  to put in an elevator, then tearing down part of the building to add the elevator.
 @snapend
 
-@snap[west span-55]
+<!-- @snap[west span-55]
 @ul[spaced text-white]
 - You will be amazed
 - What you can achieve
 - *With a little imagination...*
 - And **GitPitch Markdown**
 @ulend
-@snapend
+@snapend -->
 
----
 ---?video=https://youtu.be/SzRy2RcbudY?t=44
 
 <!-- @img[shadow](assets/img/conference.png) -->
