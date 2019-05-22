@@ -36,18 +36,17 @@
 @ulend
 @snapend
 
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
-@snapend
+---
+---?video=https://youtu.be/SzRy2RcbudY?t=44
+
+<!-- @img[shadow](assets/img/conference.png) -->
+
 
 ---?image=assets/img/presenter.jpg
 
 @snap[north span-100 headline]
 <!-- ## Now It's Your Turn -->
 @snapend
----?video=https://youtu.be/SzRy2RcbudY?t=44
 
 
-@snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
-@snapend
+
