@@ -1,16 +1,18 @@
-# AccessU A11y Conference | Austin, TX
+<!-- Slide 1 -->
+# AccessU A11y Conference 
 
 ---
+<!-- Slide -->
+## June and July of 2018 each saw more than 150 digital accessibility lawsuits filed.
 
-## Add Some Slide Candy
-
-![](assets/img/presentation.png)
+<!-- ![](assets/img/presentation.png) -->
 
 ---
+<!-- Slide -->
 @title[Customize Slide Layout]
 
 @snap[west span-50]
-## Customize Slide Content Layout
+##  A new report from the Centers of Disease Control and Prevention (CDC) found that 25% of U.S. adults (61 million people), and 40% age 65 or older, have a disability. Previous figures had placed that number closer to 1-in-5, or 20%.
 @snapend
 
 @snap[east span-50]
@@ -19,9 +21,10 @@
 
 ---?color=#E58537
 @title[Add A Little Imagination]
-
+<!-- Slide -->
 @snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
+<!-- #### Add a splash of @color[cyan](**color**) and you are ready to start presenting... -->
+#### Imagine building a skyscraper and forgetting  to put in an elevator, then tearing down part of the building to add the elevator.
 @snapend
 
 @snap[west span-55]
@@ -40,8 +43,10 @@
 ---?image=assets/img/presenter.jpg
 
 @snap[north span-100 headline]
-## Now It's Your Turn
+<!-- ## Now It's Your Turn -->
 @snapend
+---?video=https://youtu.be/SzRy2RcbudY?t=44
+
 
 @snap[south span-100 text-06]
 [Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
