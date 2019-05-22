@@ -5,7 +5,7 @@
 # Theme Setting
 # Doc: https://gitpitch.com/docs/settings/theme
 #
-theme : simple
+theme : night
 
 #
 # Theme-Override Setting
@@ -17,7 +17,7 @@ theme-override: assets/css/theme-override.css
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-logo : assets/img/logo.png
+logo : assets/img/knowbility-logo.svg
 logo-postion : top-left
 
 #
@@ -27,10 +27,16 @@ logo-postion : top-left
 layout : center
 
 #
+# Transition Style
+transition : fade
+#
+
+
+#
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : " "
 
 #
 # Published Setting
