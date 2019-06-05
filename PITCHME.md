@@ -51,7 +51,7 @@
 @ulend
 @snapend -->
 
-![Video](https://youtu.be/SzRy2RcbudY?t=44)
+![Video](https://www.youtube.com/embed/SzRy2RcbudY?start=46)
 
 <!-- @img[shadow](assets/img/conference.png) -->
 
