@@ -2,7 +2,7 @@
 
 # A11y
 
----
+## @fa[umbrella fa-5x]
 
 <!-- Slide -->
 
@@ -20,13 +20,13 @@
 
 @snap[west span-50]
 
-## A new report from the Centers of Disease Control and Prevention (CDC) found that 25% of U.S. adults (61 million people), and 40% age 65 or older, have a disability. Previous figures had placed that number closer to 1-in-5, or 20%.
+## Title
+
+### A report from the Centers of Disease Control and Prevention (CDC) found that 25% of U.S. adults (61 million people), and 40% age 65 or older, have a disability. Previous figures had placed that number closer to 1-in-5, or 20%.
 
 @snapend
 
 @snap[east span-50]
-
-<!-- ![](assets/img/presentation.png) -->
 
 @snapend
 
@@ -51,7 +51,7 @@
 @ulend
 @snapend -->
 
----?video=https://youtu.be/SzRy2RcbudY?t=44
+![Video](https://youtu.be/SzRy2RcbudY?t=44)
 
 <!-- @img[shadow](assets/img/conference.png) -->
 
